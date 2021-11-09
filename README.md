@@ -5,7 +5,7 @@ I am still learning, improving my knowledge and polishing my abilities.
 Feel free to use any of the files posted in this repository, if you have any suggestions i'll be happy to hear them!
 |name|what it does|
 |-|-|
-|modulos|searches for positive factors to a user-given number|
+|modulos|looks for positive factors to a user-given number|
 |primo|determines if a user-given number is prime or not|
 |sod|adds all user-given digits|
 |tablas|returns multiplication tables from 1 to 10 from a user-given number|
