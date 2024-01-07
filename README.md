@@ -1,8 +1,7 @@
 # Projects
 ## ENG
-A library of simple projects to show
-I am still learning, improving my knowledge and polishing my abilities.
-Feel free to use any of the files posted in this repository, if you have any suggestions i'll be happy to hear them!
+A library of some simple programs i made long ago.
+Feel free to use any of the files posted in this repository.
 |Name|What it does|
 |-|-|
 |modulos|looks for positive factors to a given number|
@@ -11,9 +10,8 @@ Feel free to use any of the files posted in this repository, if you have any sug
 |tablas|returns multiplication tables from 1 to 10 for a given number|
 |calculador basico|is a rudimentary calculator i made when i was starting on java|
 ## ESP
-Una libreria de proyectos simples para mostrar.
-Sigo aprendiendo, mejorando lo que se y puliendo mis habilidades.
-Sentite libre de usar cualquiera de los archivos publicados en este repositorio, si tenes alguna sugerencia voy a estar contento de escucharla
+Una libreria de algunos programas simples que hice hace tiempo.
+Sentite libre de usar cualquiera de los archivos publicados en este repositorio.
 |Nombre|Que hace|
 |-|-|
 |modulos|Busca factores positivos a un numero determinado por el usuario|
